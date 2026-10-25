@@ -1,1 +1,7 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Замовник від навчальної частини,навчальна частина академії,high,high,supporter,manage_closely,PM
+ST-02,Диспетчер системи розкладу,навчальна частина академії,high,high,neutral,manage_closely,PM
+ST-03,Студенти та старости навчальних груп,студентство,high,low,supporter,keep_informed,Dev
+ST-04,Адміністратор служби акаунтів,IT-служба академії,low,high,blocker,keep_satisfied,PM
+ST-05,Представник студентського самоврядування,студрада,high,low,neutral,keep_informed,PM
+ST-06,Системний адміністратор хостингу,IT-служба академії,low,low,neutral,monitor,Dev
