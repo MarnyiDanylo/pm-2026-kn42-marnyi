@@ -13,7 +13,7 @@
 | GitHub-логін | MarnyiDanylo |
 | Підгрупа | КН-42 |
 | Тема проєкту | Мобільний застосунок розкладу академії зі сповіщеннями про зміни |
-| Варіант вхідних умов | V01 |
+| Варіант вхідних умов | V04 |
 | Трекер | [GitHub Projects](https://github.com/users/MarnyiDanylo/projects/1/views/1) |
 | Дошка  | [Kanban Board](https://github.com/users/MarnyiDanylo/projects/1/views/1) |
 | Валюта проєкту | для кошторису ЛР16 |

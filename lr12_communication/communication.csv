@@ -1,1 +1,8 @@
 item_id,stakeholder_id,message,channel,frequency,format,owner
+C-01,ST-01,"Прогрес закриття історій першого релізу та прогнозна дата релізу за симуляцією Монте-Карло",demo,biweekly,presentation,PM
+C-02,ST-02,"Звіт про стабільність парсингу розкладу та виявлені розбіжності у текстових форматах аудиторій",email,weekly,written,PM
+C-03,ST-04,Ескалація затримки видачі production credentials Google OAuth 2.0 при настанні тригера ризику R-01,call,on_event,verbal,PM
+C-04,ST-07,"Проміжний звіт реалізації журналу аудиту та результати сканування коду на відповідність вимогам безпеки",report,biweekly,written,PM
+C-05,ST-08,"Щотижневе зведення закритих сторі поінтів та технічних блокерів розробки і тестування",meeting,weekly,verbal,Dev
+C-06,ST-01,Термінове сповіщення про загрозу зриву віхи релізу або перетин P85 дати готовності,call,on_event,verbal,PM
+C-07,ST-03,"Анонс бета-тестування застосунку та інструкція зі встановлення через Google Play Internal Testing",chat,on_event,written,PM
