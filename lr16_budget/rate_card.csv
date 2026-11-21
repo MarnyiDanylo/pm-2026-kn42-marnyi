@@ -1,1 +1,4 @@
 role,fte,hours,rate,source,note
+PM,0.25,80,700,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/, Керівник проєкту (відповідальність за строки бюджет і взаємодію зі стейкхолдерами)
+Dev,1.5,480,575,https://dou.ua/lenta/articles/salary-report-devs-summer-2026/, Два розробники (100% та 50%) за єдиною ринковою ставкою розробника мобільних застосунків
+QA,0.5,160,500,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/, Інженер із тестування та забезпечення якості (50% зайнятості)
